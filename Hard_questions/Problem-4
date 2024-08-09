@@ -23,6 +23,6 @@ public:
                      2.0; // Use 2.0 to ensure floating-point division
         }
 
-        return median; // Return the computed median
+        return median;
     }
 };
