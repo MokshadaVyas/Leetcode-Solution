@@ -2,12 +2,15 @@
 
 Welcome to my **Leetcode Solutions** repository! Here, you'll find my journey through the challenges posed by Leetcode, coded entirely in C++. Each solution is carefully crafted, with detailed explanations to help you understand the logic behind the code.
 
-🔍 Repository Overview
-- Language: All solutions are implemented in C++.
-- Structure: Solutions are listed by Leetcode problem number and title.
-- Explanation: Each solution is accompanied by a detailed step-by-step explanation to ensure     clarity, especially for beginners.
+## 🔍 Repository Overview
 
-📂 Folder Structure
+- **Language**: All solutions are implemented in **C++**.
+- **Structure**: Solutions are listed by Leetcode problem number and title.
+- **Explanation**: Each solution is accompanied by a detailed step-by-step explanation to ensure clarity, especially for beginners.
+
+## 📂 Folder Structure
+
+```bash
 ├── Easy
 │   ├── 001_Two_Sum.cpp
 │   ├── 002_Reverse_Integer.cpp
@@ -21,22 +24,19 @@ Welcome to my **Leetcode Solutions** repository! Here, you'll find my journey th
 │   ├── 006_Regular_Expression_Matching.cpp
 │   └── ...
 └── README.md
+```
 
-📌 How to Use
-1. Clone the Repository:
-Copy code
-(git clone https://github.com/MokshadaVyas/Leetcode-Solution.git)
+## 📌 How to Use
+**1. Clone the Repository**
+git clone https://github.com/MokshadaVyas/Leetcode-Solution.git
+**2. Navigate to the problem of interest:**
+- Solutions are categorized into Easy, Medium, and Hard.
+- Open the corresponding file to view the solution and explanation.
 
-2. Navigate to the problem of interest:
- - Solutions are categorized into Easy, Medium, and Hard.
- - Open the corresponding file to view the solution and explanation.
+## ✨ Why This Repository?
+- **Beginner-Friendly**: Each solution comes with a clear and detailed explanation.
+- **Comprehensive**: A wide range of problems from Leetcode is covered, from easy to hard.
+- **C++ Expertise**: Enhance your C++ coding skills with real-world problem-solving examples.
 
-✨ Why This Repository?
-- Beginner-Friendly: Each solution comes with a clear and detailed explanation.
-- Comprehensive: A wide range of problems from Leetcode is covered, from easy to hard.
-- C++ Expertise: Enhance your C++ coding skills with real-world problem-solving examples.
-
-🌟 Let's Connect!
-- LinkedIn(https://www.linkedin.com/in/mokshada24)
-
-Feel free to fork this repository, raise issues, or contribute new solutions! Let's solve problems together and grow as better programmers. Happy coding!
+## 🌟 Let's Connect!
+LinkedIn-https://www.linkedin.com/in/mokshada24
