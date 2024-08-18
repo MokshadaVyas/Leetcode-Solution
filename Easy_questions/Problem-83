@@ -1,0 +1,21 @@
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        if (head == nullptr) return head;  // Edge case: empty list
+
+        ListNode *p = head;
+        ListNode *q = head->next;
+
+        while (q != nullptr) {
+            if (p->val != q->val) {
+                p = q;
+                q = q->next;
+            } else {
+                p->next = q->next;  // Skip the duplicate node
+                delete q;            // Delete the duplicate node
+                q = p->next;         // Move q to the next node after deletion
+            }
+        }
+        return head;
+    }
+};
